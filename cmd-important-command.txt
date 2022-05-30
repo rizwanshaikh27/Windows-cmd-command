@@ -1,0 +1,5 @@
+
+  Remove Directory From Cmd  
+  
+  1-  DEL <Directory Name> 
+  2-  
